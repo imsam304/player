@@ -185,7 +185,7 @@
 
 .fluid_initial_play_button {
   border: none;
-  background-image: url(wps-play-icon.svg);
+  background-image: url(https://cdn.jsdelivr.net/gh/imsam304/player@main/wps-play-icon.svg);
   background-repeat: no-repeat;
   width: 100px;
   height: 100px;
